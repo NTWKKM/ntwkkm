@@ -1,0 +1,7 @@
+### ☕ Support Me
+
+หากโปรเจกต์ของฉันมีประโยชน์ คุณสามารถสนับสนุนค่ากาแฟได้ครับ :D
+
+| 🌍 International | 🇹🇭 Thai Local |
+| :---: | :---: |
+| <a href="https://www.buymeacoffee.com/ใส่ชื่อUserของคุณตรงนี้"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ใส่ชื่อUserของคุณตรงนี้&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" height="40"></a> | <details><summary><b>Scan PromptPay QR</b></summary><br><img src="donation-qr.jpg" width="150" alt="PromptPay"></details> |
